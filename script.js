@@ -2,10 +2,10 @@
   "use strict";
 
   let images = [
-    "/images/cat_1.jpg",
-    "/images/cat_2.jpg",
-    "/images/cat_3.jpg",
-    "/images/cat_4.jpg",
+    "images/cat_1.jpg",
+    "images/cat_2.jpg",
+    "images/cat_3.jpg",
+    "images/cat_4.jpg",
   ];
   let currentImage = 0;
 
