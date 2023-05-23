@@ -1,4 +1,6 @@
 (function () {
+  "use strict";
+
   let images = [
     "/images/cat_1.jpg",
     "/images/cat_2.jpg",
